@@ -6,6 +6,9 @@
 x<- 4+5
 y<- x-1
 
+# Another test
+z<- 5+6
+
 # Libraries and preliminaries ---------------------------------------------
 # Libraries
 library(mgcv)
