@@ -1,6 +1,11 @@
 #####
 ## Accounting for Seasonality in Species Distribution Models
 ######
+
+# Just a quick test here, nothing major...
+x<- 4+5
+y<- x-1
+
 # Libraries and preliminaries ---------------------------------------------
 # Libraries
 library(mgcv)
